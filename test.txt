@@ -1,3 +1,3 @@
-This is a new file.
+This is a third file.
 Git is a version control system.
 Git is free software.
